@@ -57,4 +57,4 @@ To debug a test in the command line, you can use the debugger statement in your 
 
 ##  Further reading
 
-Cypress documentation
+[Cypress documentation](https://docs.cypress.io/)
