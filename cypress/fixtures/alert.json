@@ -1,0 +1,5 @@
+{
+  "usernameRequiredAlertText": "Epic sadface: Username is required",
+  "passwordRequiredAlertText": "Epic sadface: Password is required",
+  "usernameAndPasswordMismatchAlertText": "Epic sadface: Username and password do not match any user in this service"
+}
